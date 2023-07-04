@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 I am a full-stack software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya:kenya:
 
 I aim to be the person that develops a solution, designs all the connecting pieces and implements them with proper follow-through.
+
 I also take pride in being the architect of the solution to any problem through technology.
 
 
